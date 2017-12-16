@@ -1,3 +1,3 @@
 [submodule "rest/singlewriteoperations"]
 	path = rest/singlewriteoperations
-	url = ssh://github:zaazi/demo.rest.singlewriteoperations.git
+	url = ssh://github/zaazi/demo.rest.singlewriteoperations.git
