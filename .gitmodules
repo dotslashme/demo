@@ -1,6 +1,0 @@
-[submodule "rest/singlewriteoperations"]
-	path = rest/singlewriteoperations
-	url = ssh://github/zaazi/demo.rest.singlewriteoperations.git
-[submodule "rest/springbootstarter"]
-	path = rest/springbootstarter
-	url = ssh://github/zaazi/demo.rest.springbootstarter.git
